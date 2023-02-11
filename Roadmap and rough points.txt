@@ -1,0 +1,14 @@
+
+Problem: Overpopulation and transport negligence...
+
+1. Reduce toll tax by using less labours and more of AI.
+2. Introduce AI in transport sector by identifying each vehicle and noting up their aadhar details.
+3. Storing data of license plate and linking it with user's aadhar card.
+4. Simplifying the process of faulty driving fee with the eradication of chalans by directly imposing penalties on the user of the vehicle 
+and deducting the penalty directly from the bank account. 
+5. Introducing disaster relief by getting the info  about the user through a website which shall store the details of the user across.
+6. Introducing modern technologies and using CCTV for viewing number plates and storing the information of a driver at a particular place.
+7. Cameras should be programmed as to detect only clear license plate (will call it: lp-cameras).
+8. The lisence plates must introduce a non-removable QR system which when scanned by the lp-cameras.
+
+basically I plan to merge aadhar , lisence and a person. 
